@@ -12,4 +12,14 @@ Requirements
 Roadmap / ideas
 ----------------
 
-to be added
+### Event detection.  
+
+* deaths (and killers)
+* attacks (and attackers)
+* visits to the tavern
+* captured mines
+
+### Goal detection
+
+The next step.  Can we determine from a particular player's behavior what that player's short-term goal is (if any)?  
+
